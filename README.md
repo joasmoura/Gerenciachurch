@@ -15,3 +15,5 @@ Conta com um site, um painel para administradores do sistema para os usuários d
 
 - Site: **[htps://gerenciachurch.com.br](htps://gerenciachurch.com.br)**
 - Sistema: **[htps://app.gerenciachurch.com.br](htps://app.gerenciachurch.com.br)**
+- **[Tighten Co.](https://tighten.co)**
+
