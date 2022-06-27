@@ -3,9 +3,9 @@ Sistema Saas (Software as Service ou Sistemas como serviço em português) de ge
 
 ## Técnologias utilizadas
 
-  #Fontend
+  - Fontend
     - Nuxt
-  #Backend
+  - Backend
     - Laravel
     - Mysql
     - Redis
