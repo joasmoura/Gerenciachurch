@@ -13,5 +13,5 @@ Sistema Saas (Software as Service ou Sistemas como serviço em português) de ge
     
 Conta com um site, um painel para administradores do sistema para os usuários das igrejas.
 
-- Site: <a href="htps://gerenciachurch.com.br">htps://gerenciachurch.com.br</a>
-- Sistema: <a href="htps://app.gerenciachurch.com.br">htps://app.gerenciachurch.com.br</a>
+- Site: [htps://gerenciachurch.com.br](htps://gerenciachurch.com.br)
+- Sistema: [htps://app.gerenciachurch.com.br](htps://app.gerenciachurch.com.br)
